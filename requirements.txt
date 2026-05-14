@@ -1,0 +1,2 @@
+# No external Python packages required.
+# Uses only Python standard library: tkinter, urllib, json, xml, zipfile, subprocess.

@@ -1,0 +1,11 @@
+{
+  "bose_ip": "192.168.1.50",
+  "soundcork_base": "http://192.168.1.10:8000",
+  "soundcork_dir": "F:/soundcork",
+  "backup_dir": "F:/Backups/soundcork",
+  "account_id": "",
+  "restart_soundcork_after_save": true,
+  "docker_compose_file": "",
+  "docker_service_name": "soundcork",
+  "request_timeout_seconds": 12
+}
