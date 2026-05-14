@@ -1,6 +1,3 @@
-# soundtouch-radio-preset-editor
-Local TuneIn radio preset editor for Bose SoundTouch speakers using SoundCork.
-
 # SoundTouch Radio Preset Editor 🎛️📻
 
 A small local TuneIn radio preset editor for **Bose SoundTouch** speakers running with **SoundCork**.
