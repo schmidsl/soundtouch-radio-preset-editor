@@ -101,7 +101,7 @@ No external Python packages are required.
 
 🚀 Quick start
 1. Download or clone this repository
-git clone https://github.com/YOUR_USERNAME/soundtouch-radio-preset-editor.git
+git clone https://github.com/schmidsl/soundtouch-radio-preset-editor.git
 cd soundtouch-radio-preset-editor
 
 Or download the release ZIP and extract it.
